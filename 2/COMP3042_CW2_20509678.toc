@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Involved Stakeholders}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Employees}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Employers}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}HR Departments}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Clients and Third Parties}{2}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Analysis of Ethical Issues Using SE Code of Ethics}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Public Interest (SECE Principles 1.02, 1.04, 1.06)}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Judgment (SECE Principles 4.01, 4.03)}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Product (SECE Principles 3.12, 3.13)}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Colleagues (SECE Principles 7.05, 7.04)}{3}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Application of Selected Ethical Theories}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Kantianism}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Utilitarianism}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Virtue Ethics}{4}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Critical Reflection}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}SECE: Structured Guidance}{4}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Kantianism and Virtue Ethics: Protecting Dignity}{5}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Utilitarianism: Balancing Productivity and Well-being}{5}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}A Multi-layered Approach}{5}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Recommendations for Improving Ethical Standing}{5}{section.6}%
+\contentsline {section}{\numberline {7}Conclusion}{5}{section.7}%
